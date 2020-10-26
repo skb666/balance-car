@@ -1,0 +1,90 @@
+卷 办公 的文件夹 PATH 列表
+卷序列号为 2A65-42D2
+D:.
+│  clear.bat
+│  irq.c
+│  main.c
+│  main.h
+│  STC8.63239
+│  STC8.Administrator
+│  stc8.h
+│  STC8.uvgui.63239
+│  STC8.uvgui.Administrator
+│  STC8.uvopt
+│  STC8.uvproj
+│  文件目录.txt
+│  更新说明.txt
+│  生成文件目录.bat
+│  选择芯片.png
+│  
+├─Listings
+├─Objects
+└─STC8
+    ├─lq_stc8
+    │      lq_adc.c
+    │      lq_adc.h
+    │      lq_eeprom.c
+    │      lq_eeprom.h
+    │      lq_enc.c
+    │      lq_enc.h
+    │      lq_gpio.c
+    │      lq_gpio.h
+    │      lq_iic.c
+    │      lq_iic.h
+    │      lq_pwm.c
+    │      lq_pwm.h
+    │      lq_softiic.c
+    │      lq_softiic.h
+    │      lq_spi.c
+    │      lq_spi.h
+    │      lq_timer.c
+    │      lq_timer.h
+    │      lq_uart.c
+    │      lq_uart.h
+    │      
+    ├─peripheral
+    │      ANO_DT.c
+    │      ANO_DT.h
+    │      lq_9ax.c
+    │      lq_9ax.h
+    │      lq_icm20602.c
+    │      lq_icm20602.h
+    │      lq_key.c
+    │      lq_key.h
+    │      lq_led.c
+    │      lq_led.h
+    │      lq_mpu6050.c
+    │      lq_mpu6050.h
+    │      lq_oled.c
+    │      lq_oled.h
+    │      
+    └─test
+            test_9ax.c
+            test_9ax.h
+            test_adc.c
+            test_adc.h
+            test_ano_dt.c
+            test_ano_dt.h
+            test_eeprom.c
+            test_eeprom.h
+            test_enc.c
+            test_enc.h
+            test_exti.c
+            test_exti.h
+            test_icm20602.c
+            test_icm20602.h
+            test_key.c
+            test_key.h
+            test_led.c
+            test_led.h
+            test_mpu6050.c
+            test_mpu6050.h
+            test_oled.c
+            test_oled.h
+            test_pwm.c
+            test_pwm.h
+            test_timer.c
+            test_timer.h
+            test_uart.c
+            test_uart.h
+            
